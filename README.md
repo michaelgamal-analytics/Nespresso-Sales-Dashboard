@@ -6,7 +6,7 @@ A complete case study analyzing Nestlé Nespresso sales data using Power BI to t
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](total-performance.png)](https://www.linkedin.com/posts/michaelgamalyass_dataanalytics-powerbi-dashboard-activity-7447397730454343681-dMXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBRGDgBXQ7GfvXAVcUNWxsNXrjpNOmMfxc)
+[![Watch the Demo](Nespresso sales dashboard demo preview.png)](https://www.linkedin.com/posts/michaelgamalyass_dataanalytics-powerbi-dashboard-activity-7447397730454343681-dMXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBRGDgBXQ7GfvXAVcUNWxsNXrjpNOmMfxc)
 
 ---
 
