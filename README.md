@@ -100,3 +100,6 @@ Helps identify strong and weak markets.
 ## 🚀 Goal
 
 To deliver clear, data-driven insights that support better business decisions and performance optimization.
+
+
+## linkedin profile: (www.linkedin.com/in/michaelgamalyass)
